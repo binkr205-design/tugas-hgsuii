@@ -1,0 +1,6 @@
+{
+  "name": "Waspada AI - Edukasi Bijak AI untuk Pelajar SMP",
+  "description": "Website edukasi interaktif dan sederhana mengenai penyalahgunaan teknologi AI dalam kehidupan sehari-hari untuk siswa kelas 8 dan pelajar sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
